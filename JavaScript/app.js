@@ -12,6 +12,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //assign functions to keycode
   function control(e) {
-    if (e.jeyCode)
+    if (e.keyCode === 38) {
+      jump();
+    }
   }
+  document.addEventListener("keydown", control);
 });
