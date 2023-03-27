@@ -13,4 +13,6 @@ body {
   background-size: 40px 70px;
   height: 70px;
   width: 40px;
+  position: absolute;
+  bottom: 0;
 }
