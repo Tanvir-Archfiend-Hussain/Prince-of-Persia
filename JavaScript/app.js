@@ -24,7 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   function control02(e) {
     if (e.keyCode === 40) {
-      jump();
+      OpenWin();
     }
   }
+  document.addEventListener("keydown", control02);
 });
