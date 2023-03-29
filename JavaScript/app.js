@@ -18,4 +18,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
   document.addEventListener("keydown", control);
+
+  function OpenWin() {
+    window.open("https://www.w3schools.com");
+  }
+  function control02(e) {
+    if (e.keyCode === 40) {
+      jump();
+    }
+  }
 });
