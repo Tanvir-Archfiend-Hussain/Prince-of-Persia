@@ -16,3 +16,10 @@ body {
   position: absolute;
   bottom: 0;
 }
+
+.container {
+  background: purple;
+  width: 1300px;
+  height: 600px;
+  transform: ;
+}
