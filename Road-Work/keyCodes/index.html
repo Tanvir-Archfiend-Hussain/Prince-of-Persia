@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="JavaScript/script.js"></script>
-    <script src="JavaScript/onClicks.js"></script>
+    <script src="JavaScript/imagePopUp.js"></script>
+    <link rel="stylesheet" href="CSS/imagePopUp.css" />
     <link rel="stylesheet" href="CSS/style.css" />
     <link rel="stylesheet" href="CSS/photoBooth.css" />
     <title>Document</title>
@@ -17,7 +18,7 @@
 
     <div class="container">
       <!--8888888888888-->
-      <div class="photoBooth">
+      <div class="photoBooth" id="myModal">
         <h3>Babe Two</h3>
         <img
           class="boothImage"
@@ -118,6 +119,12 @@
         <button>More Pic</button>
       </div>
       <!--8888888888888-->
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="img01" />
+        <div id="caption"></div>
+      </div>
     </div>
   </body>
 </html>
