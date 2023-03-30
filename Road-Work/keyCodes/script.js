@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.addEventListener("keydown", control);
 
   function OpenWin() {
-    window.open("https://www.w3schools.com");
+    window.open("https://static.toiimg.com/photo/msid-71761024/71761024.jpg");
   }
   function control02(e) {
     if (e.keyCode === 40) {
