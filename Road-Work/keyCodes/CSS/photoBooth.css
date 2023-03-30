@@ -1,4 +1,11 @@
+.photoBooth {
+  background-color: aqua;
+  width: 240px;
+  height: 360px;
+}
+
 .photoBooth img {
   width: 230px;
   height: 330px;
+  cursor: pointer;
 }
