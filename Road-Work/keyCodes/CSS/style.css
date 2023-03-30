@@ -22,4 +22,5 @@ body {
   width: 1300px;
   height: auto;
   transform: translate(10%, 10%);
+  padding: 10px;
 }
