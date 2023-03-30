@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(https://static.toiimg.com/photo/71761057.cms);
+  background-size: 400px 600px;
+}
+
+.character {
+  background-image: url(midevilHeor.gif);
+  background-size: 40px 70px;
+  height: 70px;
+  width: 40px;
+  position: absolute;
+  bottom: 0;
+}
