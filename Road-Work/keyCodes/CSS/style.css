@@ -21,5 +21,5 @@ body {
   background: purple;
   width: 1300px;
   height: 600px;
-  transform: ;
+  transform: translate(10%, 10%);
 }
