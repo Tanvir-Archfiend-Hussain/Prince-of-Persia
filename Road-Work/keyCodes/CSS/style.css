@@ -23,4 +23,6 @@ body {
   height: auto;
   transform: translate(10%, 10%);
   padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
 }
