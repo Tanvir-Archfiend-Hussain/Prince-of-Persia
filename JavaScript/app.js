@@ -28,4 +28,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
   document.addEventListener("keydown", control02);
+  // key down means when any key is pressed
 });
