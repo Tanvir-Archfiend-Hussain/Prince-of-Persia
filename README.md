@@ -19,6 +19,16 @@ Mechner enrolled in New York University's film department, producing an award-wi
 
 </p>
 <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6UmnMAdBWz0OkG9ueSP76c/4f9df800caec354ef92f2522a8b86bfc/PoP_buy_asset.jpg" />
+<p></p>
+
+<p>
+Mechner, who owned the Prince of Persia intellectual property, was brought in to work with Ubisoft on a reboot of the franchise, titled The Sands of Time, although he was originally wary after the failure of Prince of Persia 3D.[15] The team they worked with was also working on Tom Clancy's Splinter Cell: their aim with the game was to "breathe new life into the action-adventure genre".[16][17]
+
+Mechner did not take part in the production of the next game, Prince of Persia: Warrior Within, and he commented on finding the dark atmosphere and heightened level of violence unappealing.[18] The changes also provoked mixed reactions from critics, but sales were strong and a third game, eventually titled Prince of Persia: The Two Thrones, went into production.[19] For The Two Thrones, the developers and artists tried to strike a balance between the light, cartoon-like tones of The Sands of Time, and the grittier mediums of Warrior Within.[20]
+
+In November 2008, Ubisoft revealed that it was working on a new entry in the franchise, which was later revealed to be Prince of Persia: The Forgotten Sands.[21] The Windows, Xbox 360 and PlayStation 3 versions of the game filled in some of the narrative gap between The Sands of Time and Warrior Within; whereas the PSP, Wii, and the DS versions each feature their own alternative storylines. The game was released in May 2010, timed to tie in with The Sands of Time film adaptation.
+
+</p>
 <img src="https://images.bauerhosting.com/legacy/empire-tmdb/films/9543/images/2JK9IllXGo7V2PZzLmclkB5Cf8k.jpg?format=jpg&quality=80&width=850&ratio=16-9&resize=aspectfill" />
 <img src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2020/08/28/5e9aa060/princeofpersia.jpg" />
 <img src="https://gamingbolt.com/wp-content/uploads/2020/09/prince-of-persia-the-sands-of-time-remake-image-5.jpg" />
