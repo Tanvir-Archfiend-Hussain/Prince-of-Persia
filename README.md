@@ -37,6 +37,17 @@ In North America, the three games were originally released separately as downloa
 
 </p>
 <img src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2020/08/28/5e9aa060/princeofpersia.jpg" />
-<p></p>
+<p>
+The first spin-off of the series was developed alongside and released in the same year as The Two Thrones for the Nintendo DS. Battles of Prince of Persia is a real-time strategy game set between The Sands of Time and Warrior Within. It received mediocre reviews from critics.
+
+In 2006, concept designs surfaced hinting at another entry in the franchise. The game, titled simply Prince of Persia, was unveiled in 2008, with Ubisoft marketing it as a second reboot of the franchise, with its level and combat design harking back to the original 1989 game. The game was released in December 2008, receiving positive reviews from most video game outlets and decent sales. Alongside the main game, Ubisoft's Casablanca branch developed a direct sequel and spin-off for the Nintendo DS, titled Prince of Persia: The Fallen King, which received fair reviews.
+
+In 2007, Gameloft and Ubisoft released Prince of Persia Classic, an enhanced remake of the original Prince of Persia for Java ME, Android, iOS, Xbox 360 (XBLA), and PlayStation 3 (PSN).[36] The visual style was upgraded to resemble Prince of Persia: The Sands of Time, and the Prince himself was given some additional moves, such as the ability to roll, backflip, wall jump and stop time briefly during combat. However, the core gameplay remains the same as the original – the player must defeat Jaffar within one hour while watching out for the many traps and defeating the guards they encounter.
+
+There have been a number of mobile games for Java ME-based phones developed by Gameloft, some based on older PC or console titles with 2D graphics and others loosely based on contemporary games but with 2D graphics and different gameplay due to technology constraints. Gameloft has also developed some ports for both the iPhone and the iPad. The first spin-off by Gameloft was titled Prince of Persia: Harem Adventures, released for Java phones in 2003.[37] Specifically, the company has developed HD remakes of the original Prince of Persia in 2007,[38] and its sequel The Shadow and the Flame in July 2013.[39][40]
+
+In 2018, Ubisoft under the banner of its entity Ketchapp released Prince of Persia: Escape,[41] a mobile game for Android and iOS. It is a "runner" game made up of different levels,[42] and the player can customize the protagonist with outfits from past games. Reviewing for Pocket Gamer, Cameron Bald called Prince of Persia: Escape a "mundane game crushed under the weight of excessive greed".[43] In August 2022, a follow-up, Prince of Persia: Escape 2, was released.
+
+</p>
 <img src="https://gamingbolt.com/wp-content/uploads/2020/09/prince-of-persia-the-sands-of-time-remake-image-5.jpg" />
 <p></p>
