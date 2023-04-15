@@ -30,5 +30,13 @@ In November 2008, Ubisoft revealed that it was working on a new entry in the fra
 
 </p>
 <img src="https://images.bauerhosting.com/legacy/empire-tmdb/films/9543/images/2JK9IllXGo7V2PZzLmclkB5Cf8k.jpg?format=jpg&quality=80&width=850&ratio=16-9&resize=aspectfill" />
+<p>
+The Prince of Persia Trilogy (known as Prince of Persia Trilogy 3D on the remastered collection's title screen) is a collection of The Sands of Time trilogy released on the PlayStation 2 and subsequently on the PlayStation 3 as part of the Classics HD range. The collection includes The Sands of Time, Warrior Within and The Two Thrones, all previously released on the PlayStation 2, Xbox and Microsoft Windows. The games were remastered in high-definition for the PlayStation 3 with 3D and PlayStation Network Trophy support on one Blu-ray Disc. The PlayStation 2 collection was released on October 27, 2006, in Europe,[citation needed] while the remastered collection was released on November 19, 2010, on Blu-ray in PAL regions. The release marks the first Classics HD title to not be published by Sony Computer Entertainment.
+
+In North America, the three games were originally released separately as downloadable-only titles on the PlayStation Store. The first, The Sands of Time, was released on November 16, 2010, while the other two games followed in December. The Blu-ray version was to be released in North America on March 22, 2011but the collection ended up being delayed until April 19.
+
+</p>
 <img src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2020/08/28/5e9aa060/princeofpersia.jpg" />
+<p></p>
 <img src="https://gamingbolt.com/wp-content/uploads/2020/09/prince-of-persia-the-sands-of-time-remake-image-5.jpg" />
+<p></p>
