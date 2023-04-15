@@ -2,7 +2,6 @@
 
 <h1 align="center">Prince of Persia</h1>
 <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4kvUGP06XxwIDPMDgrganQ/d022a2a43a52926fc81f9c8784d24f1b/media0.jpg" />
-<img src="https://themepack.me/i/c/749x467/media/g/94/prince-persia-theme-1.jpg" />
 
 <p>
 Prince of Persia is a video game franchise created by Jordan Mechner. It is built around a series of action-adventure games focused on various incarnations of the eponymous Prince, set in ancient and medieval Persia.
@@ -12,3 +11,4 @@ The first two games in the series, Prince of Persia (1989) and Prince of Persia 
 Outside of the games, the franchise also includes a film adaptation based on The Sands of Time, written in part by Mechner, and released by Walt Disney Pictures in 2010; a graphic novel; and the Lego Prince of Persia toyline. Ubisoft's Assassin's Creed franchise is considered to be the spiritual successor to the series.
 
 </p>
+<img src="https://themepack.me/i/c/749x467/media/g/94/prince-persia-theme-1.jpg" />
