@@ -18,3 +18,7 @@ The first game in the series was created by Jordan Mechner after the success of 
 Mechner enrolled in New York University's film department, producing an award-winning short film during his time there, before returning to design and direct a sequel to the original game. The sequel, Prince of Persia 2: The Shadow and the Flame, was developed internally at Broderbund with Mechner's supervision. The game, like its predecessor, received critical acclaim and high sales. Broderbund was subsequently purchased by The Learning Company, which was later acquired by US game company Mattel Interactive. In 1999, Prince of Persia 3D was developed and released under Broderbund's Red Orb label. Released for PC and the Dreamcast only, it was criticized by many users as being buggy, and was a commercial disappointment. The Broderbund/Learning Company's games division, the assets of which included the Prince of Persia franchise, was subsequently sold to Ubisoft
 
 </p>
+<img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6UmnMAdBWz0OkG9ueSP76c/4f9df800caec354ef92f2522a8b86bfc/PoP_buy_asset.jpg" />
+<img src="" />
+<img src="" />
+<img src="" />
