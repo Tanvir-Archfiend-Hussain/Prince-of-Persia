@@ -12,3 +12,9 @@ Outside of the games, the franchise also includes a film adaptation based on The
 
 </p>
 <img src="https://themepack.me/i/c/749x467/media/g/94/prince-persia-theme-1.jpg" />
+<p>
+The first game in the series was created by Jordan Mechner after the success of Karateka. Drawing from multiple general sources of inspiration, including the One Thousand and One Nights stories,and films like Raiders of the Lost Ark[5] and The Adventures of Robin Hood, the protagonist's character animation was created using a technique called rotoscoping, with Mechner using his brother as the model for the titular prince.The original Prince of Persia, with its more than 20 platform ports, is one of the most ported games in video game history.
+
+Mechner enrolled in New York University's film department, producing an award-winning short film during his time there, before returning to design and direct a sequel to the original game. The sequel, Prince of Persia 2: The Shadow and the Flame, was developed internally at Broderbund with Mechner's supervision. The game, like its predecessor, received critical acclaim and high sales. Broderbund was subsequently purchased by The Learning Company, which was later acquired by US game company Mattel Interactive. In 1999, Prince of Persia 3D was developed and released under Broderbund's Red Orb label. Released for PC and the Dreamcast only, it was criticized by many users as being buggy, and was a commercial disappointment. The Broderbund/Learning Company's games division, the assets of which included the Prince of Persia franchise, was subsequently sold to Ubisoft
+
+</p>
